@@ -1,6 +1,8 @@
 ## Willkommen auf meiner Webseite
 
 
+
+
 ## Meine Portfolios:
 
   [LA_1300](LA1300_4_hedgehog.pdf)
@@ -11,4 +13,8 @@
   
   [RandomNumberGenerator](https://portfolio.bbbaden.ch/view/view.php?t=R4zmAW8JTcMqIj2wd6HS)
   
+  
+## Über Mich:
+
+Mein Name ist Samuel und ich komme aus der Schweiz. Derzeit gehe ich in die IMS Aarau.
   
