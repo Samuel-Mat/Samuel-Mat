@@ -15,4 +15,7 @@
 ## Über Mich:
 
 Mein Name ist Samuel und ich komme aus der Schweiz. Derzeit gehe ich in die IMS Aarau.
+
+
+## Andere Projekte:
   
