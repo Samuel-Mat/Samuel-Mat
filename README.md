@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samuel Matarese</h1>
 <h3 align="center">An Aspiring Web Developer from Switzerland</h3>
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="samuel-mat" /> </p>
 
+
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="300" alt="samuel-mat" /> 
+  
 - 🔭 I’m currently working on **a Quiz App**
 
 - 🌱 I’m currently learning **React**
@@ -9,6 +11,7 @@
 - 📫 How to reach me **s.matarese.inf21@stud.bbbaden.ch**
 
 - ⚡ Fun fact **I like Capybaras**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
