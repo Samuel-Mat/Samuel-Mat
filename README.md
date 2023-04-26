@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring Web Developer from Switzerland</h3>
 
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="300" alt="samuel-mat" /> 
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmM5ZTA0ZTA2MDVlMWI0MDNkYTNlMmY0YzRhZWE5NTgxMTU0YWM1NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" height="300" alt="samuel-mat" /> 
   
 - 🔭 I’m currently working on **a Quiz App**
 
