@@ -6,7 +6,7 @@
   
 - 🔭 I’m currently working on **a Quiz App**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ASP .NET**
 
 - 📫 How to reach me **s.matarese.inf21@stud.bbbaden.ch**
 
