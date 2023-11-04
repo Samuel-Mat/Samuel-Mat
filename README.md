@@ -6,7 +6,7 @@
   
 - 🔭 I’m currently working on **an UNO Game**
 
-- 🌱 I’m currently learning **ASP .NET**
+- 🌱 I’m currently learning **Godot**
 
 - 📫 How to reach me **s.matarese.inf21@stud.bbbaden.ch**
 
